@@ -320,24 +320,6 @@
   </div>
 </div>
 
-<div class="edu-item">
-  <div class="years">2020 &ndash; 2024</div>
-  <div class="details">
-    <h3>High School Diploma</h3>
-    <p>Ferris High School &mdash; Spokane, WA &nbsp; <span class="gpa">GPA: 3.93</span></p>
-    <p>Engineering Club Secretary &middot; Led team to SkillsUSA State</p>
-  </div>
-</div>
-
-<div class="edu-item">
-  <div class="years">Summer 2023</div>
-  <div class="details">
-    <h3>Pre-Apprentice Machinist Program</h3>
-    <p>Machinists Institute &mdash; Spokane, WA</p>
-    <p>150 hours of hands-on training alongside working machinists</p>
-  </div>
-</div>
-
 <!-- Contact -->
 <div class="contact-footer">
   <p><strong>Get in touch</strong></p>
