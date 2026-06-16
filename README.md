@@ -244,7 +244,7 @@
 
 <div class="project">
   <h3>Closed-Loop Liquid Level Control System</h3>
-  <p class="meta">CODESYS Structured Text &middot; Factory I/O &middot; OPC UA &middot; PI Controller &middot; 2025</p>
+  <p class="meta">CODESYS Structured Text &middot; Factory I/O &middot; OPC UA &middot; PI Controller &middot; 2026</p>
   <p>
     Automatic fluid level control using CODESYS as the PLC and Factory I/O for the 3D
     simulation. OPC UA connects the two so code can read the level sensor and drive the
